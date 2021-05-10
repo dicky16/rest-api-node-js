@@ -1,0 +1,9 @@
+{
+  "name": "Documentation API",
+  "version": "0.1.0",
+  "description": "documentation",
+  "apidoc": {
+    "title": "movie app",
+    "url" : "movie.com"
+  }
+}
